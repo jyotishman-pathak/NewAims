@@ -12,10 +12,11 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <Heart className="h-8 w-8 text-primary-400" />
-              <span className="font-bold text-xl">Hope Foundation</span>
+              <span className="font-bold text-xl">New Aims</span>
             </Link>
             <p className="text-gray-400 mb-6">
-              Empowering communities worldwide through sustainable initiatives in education, healthcare, and environmental conservation.
+            Empowering Communities 
+            for a Better Tomorrow
             </p>
             <div className="flex space-x-4">
               <SocialIcon icon={<Instagram size={20} />} href="#" />
