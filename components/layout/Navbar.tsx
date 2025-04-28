@@ -43,7 +43,7 @@ const Navbar = () => {
           <Link href="/" className="flex items-center gap-2">
             <Heart className={cn('h-8 w-8', scrolled ? 'text-primary' : 'text-white')} />
             <span className={cn('font-bold text-xl', scrolled ? 'text-primary' : 'text-white')}>
-              New Aims
+              NEWAIMS
             </span>
           </Link>
 
